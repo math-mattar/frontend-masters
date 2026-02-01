@@ -3,7 +3,9 @@
 Curso introdutório que cobre os fundamentos de HTML, CSS e JavaScript.
 
 📚 **Curso:** [Complete Intro to Web Development, v3](https://frontendmasters.com/courses/web-development-v3/)
+
 👨‍🏫 **Instrutor:** Brian Holt
+
 ✅ **Status:** Concluído
 
 ## Projetos
