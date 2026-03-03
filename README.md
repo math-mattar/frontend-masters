@@ -13,8 +13,8 @@ Aprender nunca acaba. Este repositório documenta minha jornada pelos cursos do 
 ### Beginner Path
 
 - [x] [Complete Intro to Web Development](./beginner/01-complete-intro-to-web-development/)
-- [ ] [Getting Started with CSS](./beginner/02-getting-started-with-CSS/)
-- [ ] Getting Started with JavaScript
+- [x] [Getting Started with CSS](./beginner/02-getting-started-with-css/)
+- [ ] [Getting Started with JavaScript](./beginner/03-getting-started-with-javascript/)
 - [ ] CSS Foundations
 - [ ] JavaScript: From First Steps to Professional
 - [ ] Website Accessibility
@@ -25,7 +25,8 @@ Aprender nunca acaba. Este repositório documenta minha jornada pelos cursos do 
 frontend-masters/
 └── beginner/
   ├── 01-complete-intro-to-web-development/
-  ├── 02-getting-started-with-CSS/
+  ├── 02-getting-started-with-css/
+  ├── 03-getting-started-with-javascript/
   └── ...
 
 ```
